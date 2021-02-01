@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.nama{
+    position: relative;
+    color: #0a043c;
+}
+h1{
+    margin: 0 auto;
+    font-size: 90px;
+    width: 30%;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #214151;
+}
+h3{
+    color: #00587a;
+}
+div >p{
+    font-size: 20px;
+}
+.top-container{
+    background-color: #a6f0c6; 
+    position: relative;
+    padding-top: 140px;
+}
+.middle-container{
+    background-color: #a98b98;
+    padding: 0;
+    position: relative;
+}
+.bottom-container{
+    background-color: #4e3d53;
+    position: relative;
+}
+.nama{
+    line-height: 1;
+}
+.top-cloud{
+    position: absolute;
+    top: 20px;
+    right: 350px;
+}
+.bottom-cloud{
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+.bird{
+    position: absolute;
+    top: 420px;
+    left: 500px;
+}
+.mountain{
+   
+}
+.fotoDanBio{
+    width: 60%;
+    margin: 0 auto;
+}
+hr{
+    border-color: #ffffff;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 20%;
+}
+img.fotoProfil{
+    border-radius: 10%;
+}
+.skillimage{
+   width: 60%;
+   margin: auto;
+   text-align: left;
+}
+.pilot{
+    margin-top: 100px;
+}
+.programmer{
+    margin-top: 60px;
+}
+.computer-img{
+    float: left;
+    margin-right: 30px;
+}
+.airplane-img{
+    float: right;
+    margin-left: 30px;
+}
+.contactme{
+    font-size: 1,5rem;
+    padding-top: 50px;
+}
+.footer{
+    padding-top: 14px;
+    padding-bottom: 2px;
+    line-height: 1;
+}
+.contactme{
+    padding-bottom: 50px;
+}
+.button {
+    background-color: #16c79a;
+    border: none;
+    color: white;
+    padding: 13px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5%;
+  }
+a{
+    padding: 10px 10px;
+}
+a:link{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+a:visited{
+    color: beige;
+}
+a:hover{
+    color: #a6f0c6;
+}
+a:active{
+    color: chartreuse;
+}
+a.email:link{
+    color: #ffffff;
+}
+a.email:visited{
+    color: #ffffff;
+}
+a.email:hover{
+    color: #ffffff;
+}
+a.email:active{
+    color: #ffffff;
+}
+#copyright{
+    color: #ffffff;
+    font-size: 0.75rem;
+}
+
